@@ -22,6 +22,7 @@ namespace TicketSystemSearch
             {
                 Console.WriteLine("1) List tickets."); //asks the user what they'd like to do
                 Console.WriteLine("2) Create new ticket.");
+                Console.WriteLine("3) Find Ticket");
                 Console.WriteLine("Enter any other key to exit.");
                 choice = Console.ReadLine();
                 logger.Info("User choice: " + choice); //keeps track of the user's choice
@@ -76,7 +77,15 @@ namespace TicketSystemSearch
                     }while (typeChoice == "1" || typeChoice == "2" || typeChoice == "3"); //will loop as long as 1, 2, or 3 is entered
                 }
 
-            } while (choice == "1" || choice == "2"); // keeps looping as long as 1 or 2 is entered
+                else if  (choice == "3")
+                {
+                    
+
+                }
+
+
+
+            } while (choice == "1" || choice == "2" || choice == "3"); // keeps looping as long as 1 or 2 is entered
             logger.Info("Program ended"); // logs that it ended
         }
     }
