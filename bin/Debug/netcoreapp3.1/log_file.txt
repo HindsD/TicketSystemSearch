@@ -1,0 +1,7 @@
+2021-10-18 13:12:01.1606|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 13:12:03.7331|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-18 13:12:05.2717|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 13:12:09.5955|INFO|TicketSystemSearch.Ticket+Enhancement|Program started
+2021-10-18 13:12:14.1935|INFO|TicketSystemSearch.Ticket+Task|Program started
+2021-10-18 13:12:20.7179|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 13:12:20.7179|INFO|TicketSystemSearch.Program|Program ended

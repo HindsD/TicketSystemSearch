@@ -1,0 +1,17 @@
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\TicketSystemSearch.exe
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\TicketSystemSearch.deps.json
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\TicketSystemSearch.runtimeconfig.json
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\TicketSystemSearch.runtimeconfig.dev.json
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\TicketSystemSearch.dll
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\TicketSystemSearch.pdb
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\NLog.dll
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\code stuff\TicketSystemSearch\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.csprojAssemblyReference.cache
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.AssemblyInfoInputs.cache
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.AssemblyInfo.cs
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.csproj.CoreCompileInputs.cache
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.csproj.CopyComplete
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.dll
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.pdb
+E:\code stuff\TicketSystemSearch\obj\Debug\netcoreapp3.1\TicketSystemSearch.genruntimeconfig.cache
