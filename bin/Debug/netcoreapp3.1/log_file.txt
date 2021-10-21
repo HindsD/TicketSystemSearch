@@ -5,3 +5,452 @@
 2021-10-18 13:12:14.1935|INFO|TicketSystemSearch.Ticket+Task|Program started
 2021-10-18 13:12:20.7179|INFO|TicketSystemSearch.Program|User choice: 
 2021-10-18 13:12:20.7179|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 14:05:20.5792|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 14:05:20.7021|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 14:05:22.5614|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-18 14:05:24.2007|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 14:06:37.5380|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 14:06:37.5380|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 14:06:41.8268|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 14:06:41.9429|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 14:06:42.9138|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 14:06:42.9138|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 14:08:59.2795|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 14:08:59.4431|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 14:09:00.9657|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 14:09:24.6101|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 14:09:24.6101|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 14:12:34.0416|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 14:12:34.1873|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 14:12:36.0168|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 14:13:07.5546|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 14:13:07.5546|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 15:10:03.1225|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 15:10:03.2599|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 15:10:05.7845|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 15:10:28.5439|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 15:10:28.5461|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 15:10:34.5641|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 15:10:34.7053|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 15:10:35.4581|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-18 15:10:36.6800|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 15:10:45.4045|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 15:11:04.1777|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 15:11:04.1777|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 15:42:16.1259|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 15:42:16.2757|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 15:42:18.9859|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-18 15:42:20.6458|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 15:42:20.6639|ERROR|TicketSystemSearch.BugFile|The process cannot access the file 'E:\code stuff\TicketSystemSearch\Tickets.csv' because it is being used by another process.
+2021-10-18 15:55:14.5025|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 15:55:14.5025|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 15:55:21.2817|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 15:55:21.3930|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 15:55:24.9182|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-18 15:55:26.5432|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 15:56:01.2510|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 15:57:09.3632|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 15:57:09.3632|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 15:57:14.4142|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 15:57:14.5359|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 15:57:17.3860|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 16:06:32.1298|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 16:06:32.1985|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 16:06:35.4915|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 16:11:03.9256|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 16:11:04.0363|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 16:11:05.7779|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-18 16:11:08.0887|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 16:11:16.5294|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 16:11:16.5294|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 16:11:59.1901|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 16:11:59.3150|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 16:12:00.5515|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-18 16:12:01.8187|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 16:12:04.4582|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-18 16:12:05.9294|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 16:26:10.7390|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 16:26:10.7390|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 16:26:16.2228|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 16:26:16.3147|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-18 16:26:22.0291|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-18 16:26:36.8161|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 16:26:36.8161|INFO|TicketSystemSearch.Program|Program ended
+2021-10-18 16:27:22.7345|INFO|TicketSystemSearch.Program|Program started
+2021-10-18 16:27:22.8403|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-18 16:27:23.6258|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-18 16:27:24.5710|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 16:27:28.6941|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-18 16:27:31.1280|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-18 16:28:05.1094|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-18 16:28:19.9811|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-18 16:28:19.9833|INFO|TicketSystemSearch.Program|Program ended
+2021-10-19 15:55:25.3917|INFO|TicketSystemSearch.Program|Program started
+2021-10-19 15:55:25.5420|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-19 15:55:27.3043|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-19 15:55:44.8652|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-19 16:00:06.7990|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-19 16:00:06.7990|INFO|TicketSystemSearch.Program|Program ended
+2021-10-19 16:00:17.3752|INFO|TicketSystemSearch.Program|Program started
+2021-10-19 16:00:17.5351|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-19 16:00:20.6514|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-19 16:01:00.9932|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-19 16:01:00.9932|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 16:00:18.4973|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 16:00:18.6313|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 16:00:23.6577|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 16:03:48.5814|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 16:03:48.5814|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 16:03:53.9773|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 16:03:55.0881|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 16:03:56.1262|INFO|TicketSystemSearch.Ticket+Bug|Program started
+2021-10-20 17:02:49.0472|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:02:49.0948|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:02:56.2303|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:02:56.3559|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:03:02.6303|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:03:17.6204|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-20 17:03:23.9004|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:03:23.9004|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:10:51.2399|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:10:51.3799|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:10:53.9797|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:11:05.7449|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-20 17:11:16.2802|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:11:16.2802|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:21:31.7384|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:21:31.8254|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:21:34.4967|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:21:47.5357|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:21:47.5357|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:21:56.2409|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:21:56.3251|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:21:59.8327|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:22:14.4771|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:22:14.4771|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:23:31.3392|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:23:31.4146|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 17:23:33.6488|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:23:48.4618|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:23:48.4618|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:24:48.9207|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:24:49.0632|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 17:24:51.4239|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:25:04.6618|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:25:04.6618|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:30:50.5768|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:30:50.6763|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:30:54.6944|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 17:32:23.4227|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:32:23.4227|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:32:28.7945|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:32:28.8785|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:32:30.7296|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:32:58.4347|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-20 17:33:04.8844|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:33:04.8844|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:37:34.4256|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:37:34.5727|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:37:37.0299|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:37:59.4262|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-20 17:38:03.3739|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:38:03.3739|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:40:00.0102|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:40:00.1154|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:40:01.0687|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:40:09.7935|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-20 17:40:13.2381|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:40:13.2381|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:40:27.4949|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:40:27.5741|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:40:28.3751|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:40:35.0851|ERROR|TicketSystemSearch.BugFile|Sequence contains no elements
+2021-10-20 17:40:56.5657|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:40:56.5657|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:44:44.3994|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:44:44.4921|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:44:53.5664|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:45:22.8118|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:45:22.8118|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:45:31.0459|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:45:31.1330|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 17:45:34.5183|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:45:49.2770|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:45:49.2792|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:47:13.6400|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:47:13.7440|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:47:14.8474|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 17:48:08.2223|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 17:48:15.2859|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:48:15.2859|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 17:48:19.5431|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 17:48:19.6191|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 17:48:20.4027|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 17:48:25.6265|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 17:48:25.6265|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:00:12.4904|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:00:12.5931|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:00:15.5498|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:00:31.5951|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:00:38.5833|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:01:18.3518|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:01:34.4926|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:01:34.4926|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:01:38.6609|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:01:38.7424|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 18:01:39.5029|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:02:05.1736|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:02:30.7535|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:02:58.9699|INFO|TicketSystemSearch.Ticket+Task|Program started
+2021-10-20 18:03:05.7355|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:03:21.7868|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:03:29.7361|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:03:34.8910|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:03:38.4804|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:03:38.4821|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:04:03.5227|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:04:03.6223|INFO|TicketSystemSearch.BugFile|Bugs in file 3
+2021-10-20 18:04:05.4619|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:04:25.3233|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:04:43.9891|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:04:43.9891|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:07:01.1154|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:07:01.2386|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:07:02.2418|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:07:06.0883|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:07:25.1408|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:07:29.3454|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:07:29.3454|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:07:34.3079|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:07:34.3850|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:07:35.8381|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:08:13.3052|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:08:21.2390|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:08:21.2390|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:21:53.4997|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:21:53.5838|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 18:21:54.5157|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:27:37.7346|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:27:37.8211|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 18:27:40.5359|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:27:51.1586|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:27:51.1586|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:27:56.2146|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:27:56.2968|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:27:58.7333|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:28:15.3027|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:28:22.0830|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:28:32.0815|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:28:32.0815|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:28:37.1003|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:28:37.1834|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:28:39.6511|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:28:46.9525|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:28:46.9525|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:37:41.3609|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:37:41.4699|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:37:44.4460|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:37:55.4782|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:37:55.4782|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:38:00.3320|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:38:00.4154|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:38:04.2916|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:38:18.0516|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:38:31.0998|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:38:31.0998|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:38:34.7552|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:38:34.8320|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:38:35.5894|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:38:38.7815|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:38:38.7815|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:40:14.5071|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:40:14.5856|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:40:15.8641|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 18:40:26.4696|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:40:32.2404|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:40:35.2377|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:40:35.2377|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 18:40:40.2270|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 18:40:40.3064|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 18:40:41.5631|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 18:40:51.8412|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 18:40:54.6038|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 18:40:54.6038|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 21:17:37.3721|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 21:17:37.4810|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 21:17:38.9293|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 21:18:01.7692|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 21:18:08.9276|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:18:14.0807|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 21:18:14.0807|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 21:18:19.3832|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 21:18:19.4571|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 21:18:21.1799|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 21:18:32.0815|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:18:48.3730|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 21:19:22.7425|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:19:32.6265|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 21:19:48.0934|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:19:52.4442|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:19:54.9291|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 21:19:54.9291|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 21:26:53.9749|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 21:26:54.0603|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 21:26:55.3290|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 21:27:08.3041|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 21:27:13.3003|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:27:21.0257|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 21:27:35.5478|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 21:27:47.9566|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:27:51.8590|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:27:53.6037|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 21:27:53.6037|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 21:27:58.0671|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 21:27:58.1398|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 21:27:59.1509|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 21:28:07.0251|INFO|TicketSystemSearch.Ticket+Task|Program started
+2021-10-20 21:28:11.8324|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 21:28:17.6929|INFO|TicketSystemSearch.Program|User choice: g
+2021-10-20 21:28:17.6929|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 21:28:23.1093|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 21:28:23.1848|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 21:28:23.9726|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:11:02.2353|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:11:02.2353|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:11:17.6811|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:11:17.7563|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:11:17.7713|INFO|TicketSystemSearch.EnhancementsFile|Bugs in file 0
+2021-10-20 22:11:18.9201|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:12:29.3362|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 22:12:39.0649|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:12:58.1436|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:12:58.1436|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:13:01.9493|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:13:02.0274|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:13:02.0395|INFO|TicketSystemSearch.EnhancementsFile|Bugs in file 0
+2021-10-20 22:13:04.8055|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:14:13.1691|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:14:13.1691|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:14:24.7862|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:14:24.8725|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:14:24.8884|INFO|TicketSystemSearch.EnhancementsFile|Bugs in file 0
+2021-10-20 22:14:25.7073|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:14:35.2774|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:14:35.2798|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:18:38.5114|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:18:38.5894|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:18:38.6070|INFO|TicketSystemSearch.EnhancementsFile|Enhancements in file 0
+2021-10-20 22:18:39.6598|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 22:18:58.5957|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:20:02.4195|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 22:20:20.4616|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:20:20.4616|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:21:18.0514|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:21:18.1308|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 22:21:18.1453|INFO|TicketSystemSearch.EnhancementsFile|Enhancements in file 1
+2021-10-20 22:21:20.0874|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:21:25.8290|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:21:25.8290|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:22:39.2146|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:22:39.2957|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:22:40.8768|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:23:01.6561|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 22:23:09.0337|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:23:12.5690|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:23:12.5690|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:23:16.8842|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:23:16.9463|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:23:17.7829|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:26:17.2847|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:26:17.2847|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:26:22.0362|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:26:22.1520|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:26:26.4555|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:26:34.1162|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:26:34.1162|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:27:59.8643|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:27:59.9535|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:28:02.4863|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 22:28:07.4722|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:28:26.1702|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 22:28:33.1982|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:28:39.2095|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:28:41.7003|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:28:41.7020|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:28:45.6518|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:28:45.7404|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:28:46.9553|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:28:55.6853|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:28:55.6853|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:29:49.9209|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:29:49.9919|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:29:53.7567|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:29:57.6779|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:30:32.8914|INFO|TicketSystemSearch.Ticket+Task|Program started
+2021-10-20 22:30:38.6934|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:30:42.3229|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:30:46.6483|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:30:46.6483|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:31:01.4614|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:31:01.5383|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:31:07.2960|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:31:29.9448|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:31:34.7855|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:31:37.4871|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:31:37.4871|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:31:40.8356|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:31:40.9140|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 22:31:41.9045|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:31:46.0903|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:32:07.8256|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:32:19.5777|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:32:23.7432|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:32:27.0738|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:32:29.3654|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:32:29.3654|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:32:32.8192|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:32:32.8966|INFO|TicketSystemSearch.BugFile|Bugs in file 2
+2021-10-20 22:32:36.2458|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:32:38.1488|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:32:38.1488|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:34:42.1270|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:34:42.1998|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:34:43.4258|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:34:54.4862|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:34:54.4862|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:34:58.1486|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:34:58.2270|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 22:35:00.4019|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:35:08.5743|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:35:08.5764|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:37:46.9458|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:37:47.0285|INFO|TicketSystemSearch.BugFile|Bugs in file 0
+2021-10-20 22:37:47.0438|INFO|TicketSystemSearch.EnhancementsFile|Enhancements in file 0
+2021-10-20 22:37:49.3223|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:39:27.5229|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:39:47.4924|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:39:47.4924|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:39:53.2980|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:39:53.3751|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 22:39:53.3751|INFO|TicketSystemSearch.EnhancementsFile|Enhancements in file 1
+2021-10-20 22:39:54.6267|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:40:01.0694|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 22:40:08.4970|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:40:11.8339|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:40:11.8339|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 22:40:16.0321|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 22:40:16.1129|INFO|TicketSystemSearch.BugFile|Bugs in file 1
+2021-10-20 22:40:16.1248|INFO|TicketSystemSearch.EnhancementsFile|Enhancements in file 1
+2021-10-20 22:40:19.7382|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 22:41:28.5951|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 22:41:44.3500|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 22:41:44.3500|INFO|TicketSystemSearch.Program|Program ended
+2021-10-20 23:38:36.2034|INFO|TicketSystemSearch.Program|Program started
+2021-10-20 23:38:36.3126|INFO|TicketSystemSearch.BugFile|Bugs in file 2
+2021-10-20 23:38:36.3261|INFO|TicketSystemSearch.EnhancementsFile|Enhancements in file 2
+2021-10-20 23:38:36.3261|INFO|TicketSystemSearch.TaskFile|Tasks in file 0
+2021-10-20 23:38:38.0067|INFO|TicketSystemSearch.Program|User choice: 2
+2021-10-20 23:41:03.1256|INFO|TicketSystemSearch.Program|User choice: 1
+2021-10-20 23:41:12.4698|INFO|TicketSystemSearch.Program|User choice: 3
+2021-10-20 23:42:15.6690|INFO|TicketSystemSearch.Program|User choice: 
+2021-10-20 23:42:15.6690|INFO|TicketSystemSearch.Program|Program ended
